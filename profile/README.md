@@ -1,15 +1,10 @@
-# :wave: Hello, we are Abyss
+# :wave: Hello, we are Abyss Inc.
 
-We are an early college startup on a mission to create Abyss‒the IDE for 3D that
-is friendly, fun, and lowers the barrier of entry to making 3D content.
+We believe in the rise of 3D content in the Web and metaverse era.
 
-We are boarding new members, and running a side project called **Bookish**‒a
-platform for raising funds for accessing books. This project is to give everyone
-a chance to familiarize with the modern developer stack.
+We are on a mission to enable **everyone** to make 3D content and build the
+software infrastructure necessary to do so.
 
-If you are interested in joining us, please fill out this [**Early Member Intake
-form**][form]! Abyss Inc. is a remote-first, work-hard-play-hard team.
-
-Thank you for reading! :heart:
-
-[form]: https://forms.gle/vNGj25xuD7k6N2er9
+Abyss Inc. was founded by [Zach](https://github.com/cszach). We are
+headquartered in the :cloud:. We believe in Web technologies and the Rust
+programming language. :crab:
